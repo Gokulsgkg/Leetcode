@@ -1,11 +1,15 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i += 2) {
-            if (nums[i] != nums[i + 1]) {
-                return false;
+        HashMap<Integer, Integer> countMap = new HashMap<>();
+        for (int num : nums) {
+            countMap.put(num, countMap.getOrDefault(num, 0) + 1);
+        }
+        for (int count : countMap.values()) {
+            if (count % 2 != 0) {
+                return false; 
             }
         }
-        return true;
+
+        return true; 
     }
 }
