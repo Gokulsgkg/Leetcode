@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Gokulsgkg/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gokulsgkg/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Gokulsgkg/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
+| [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
