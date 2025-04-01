@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gokulsgkg/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
