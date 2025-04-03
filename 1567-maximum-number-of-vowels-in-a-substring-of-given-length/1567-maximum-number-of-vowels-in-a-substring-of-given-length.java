@@ -8,7 +8,6 @@ class Solution {
         int maxCount = 0;
         int current = 0;
 
-        // Initialize the first window of size k
         for (int i = 0; i < k; i++) {
             if (isVowel(s.charAt(i))) {
                 current++;
@@ -16,7 +15,6 @@ class Solution {
         }
         maxCount = current;
 
-        // Sliding window approach
         for (int i = k; i < s.length(); i++) {
             if (isVowel(s.charAt(i))) {
                 current++;
