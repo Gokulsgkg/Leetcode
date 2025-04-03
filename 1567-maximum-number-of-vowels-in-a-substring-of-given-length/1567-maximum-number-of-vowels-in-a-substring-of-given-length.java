@@ -23,7 +23,6 @@ class Solution {
                 current--;
             }
             maxCount = Math.max(maxCount, current);
-            if (maxCount == k) return k;
         }
 
         return maxCount;
