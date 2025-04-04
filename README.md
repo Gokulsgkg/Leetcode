@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Gokulsgkg/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -173,9 +176,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
