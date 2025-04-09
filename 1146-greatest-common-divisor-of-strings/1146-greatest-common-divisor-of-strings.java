@@ -1,11 +1,8 @@
 class Solution {
     public static int gcdlen(int a , int b){
-        for(int i = Math.min(a,b);i >= 0 ; i--){
-            if(a % i == 0 && b % i == 0){
-                return i;
-            }
-        }
-        return 0;
+        if(b==0)
+            return a;
+        return gcdlen(b,a%b);
     }
     public String gcdOfStrings(String str1, String str2) {
         if(!(str1+str2).equals(str2+str1))return "";
