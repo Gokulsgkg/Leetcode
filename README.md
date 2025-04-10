@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Gokulsgkg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gokulsgkg/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gokulsgkg/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gokulsgkg/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gokulsgkg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
