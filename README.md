@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gokulsgkg/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gokulsgkg/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
