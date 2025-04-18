@@ -4,7 +4,7 @@ class Solution {
         int j = 0;
         char[] s1 = s.toCharArray();
         char[] s2 = t.toCharArray();
-        while(i < s.length() && j <t.length()){
+        while(i < s1.length && j < s2.length){
             if(s1[i] == s2[j]){
                 i++;
             }
