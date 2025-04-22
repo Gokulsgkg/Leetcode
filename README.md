@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Gokulsgkg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Gokulsgkg/Leetcode/tree/master/0605-can-place-flowers) |
+| [1127-last-stone-weight](https://github.com/Gokulsgkg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gokulsgkg/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gokulsgkg/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Gokulsgkg/Leetcode/tree/master/1656-count-good-triplets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/Gokulsgkg/Leetcode/tree/master/1127-last-stone-weight) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Gokulsgkg/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Stack
