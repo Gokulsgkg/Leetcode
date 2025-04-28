@@ -7,6 +7,7 @@ class Solution {
                     return true;
                 }
             }
+            continue;
         }
         return false;
     }
