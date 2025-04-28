@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gokulsgkg/Leetcode/tree/master/0605-can-place-flowers) |
 | [1127-last-stone-weight](https://github.com/Gokulsgkg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gokulsgkg/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Gokulsgkg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gokulsgkg/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Gokulsgkg/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gokulsgkg/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulsgkg/Leetcode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Gokulsgkg/Leetcode/tree/master/0278-first-bad-version) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gokulsgkg/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Gokulsgkg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Gokulsgkg/Leetcode/tree/master/2690-house-robber-iv) |
 ## Counting
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Gokulsgkg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Gokulsgkg/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Gokulsgkg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gokulsgkg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Gokulsgkg/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulsgkg/Leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Gokulsgkg/Leetcode/tree/master/0768-partition-labels) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Gokulsgkg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
