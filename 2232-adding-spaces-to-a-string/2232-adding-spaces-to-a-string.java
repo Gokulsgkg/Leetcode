@@ -1,6 +1,6 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(s.length() + spaces.length);
         char[] str = s.toCharArray();
         int ind = 0;
         for(int i = 0 ; i < str.length ; i++){
