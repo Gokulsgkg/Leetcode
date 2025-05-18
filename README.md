@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Gokulsgkg/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Gokulsgkg/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gokulsgkg/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gokulsgkg/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gokulsgkg/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Gokulsgkg/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -312,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gokulsgkg/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
