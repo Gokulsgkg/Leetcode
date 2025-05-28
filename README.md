@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokulsgkg/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gokulsgkg/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Gokulsgkg/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gokulsgkg/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gokulsgkg/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Gokulsgkg/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Gokulsgkg/Leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gokulsgkg/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Gokulsgkg/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Gokulsgkg/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokulsgkg/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gokulsgkg/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
