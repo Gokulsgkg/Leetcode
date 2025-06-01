@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gokulsgkg/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokulsgkg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Gokulsgkg/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0202-happy-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokulsgkg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokulsgkg/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2478-longest-nice-subarray](https://github.com/Gokulsgkg/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokulsgkg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gokulsgkg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0020-valid-parentheses) |
