@@ -8,13 +8,13 @@ class Solution {
         int n = mat.length;
         int m = mat[0].length;
         int[][] dist = new int[n][m];
-        boolean[][] vis = new boolean[n][m];
         Queue<int[]> q = new LinkedList<>();
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
                 if(mat[i][j] == 0){
-                    vis[i][j] = true;
-                    q.add(new int[]{i, j, 0});
+                    q.add(new int[]{i, j});
+                }else{
+                    dist[i][j] = -1;
                 }
             }
         }
@@ -22,13 +22,12 @@ class Solution {
             int[] cell = q.poll();
             int row = cell[0];
             int col = cell[1];
-            dist[row][col] = cell[2];
             for(int i = 0 ; i < 4 ; i++){
                 int newRow = row + delrow[i];
                 int newCol = col + delcol[i];
-                if(isValid(n, m, newRow, newCol) && !vis[newRow][newCol]){
-                    vis[newRow][newCol] = true;
-                    q.add(new int[]{newRow, newCol, cell[2]+1});
+                if(isValid(n, m, newRow, newCol) && dist[newRow][newCol] == -1){
+                    dist[newRow][newCol] = dist[row][col]+1;
+                    q.add(new int[]{newRow, newCol});
                 }
             }
         }
