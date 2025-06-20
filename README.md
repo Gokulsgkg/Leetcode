@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gokulsgkg/Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Gokulsgkg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Gokulsgkg/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Gokulsgkg/Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Gokulsgkg/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Gokulsgkg/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Gokulsgkg/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Gokulsgkg/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gokulsgkg/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Gokulsgkg/Leetcode/tree/master/1036-rotting-oranges) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Gokulsgkg/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Gokulsgkg/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Gokulsgkg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Gokulsgkg/Leetcode/tree/master/0542-01-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Gokulsgkg/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Gokulsgkg/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Gokulsgkg/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Gokulsgkg/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Gokulsgkg/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Gokulsgkg/Leetcode/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gokulsgkg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
