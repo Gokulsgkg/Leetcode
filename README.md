@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gokulsgkg/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gokulsgkg/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gokulsgkg/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Gokulsgkg/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gokulsgkg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Gokulsgkg/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Gokulsgkg/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Gokulsgkg/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Gokulsgkg/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gokulsgkg/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gokulsgkg/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Gokulsgkg/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Gokulsgkg/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Gokulsgkg/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gokulsgkg/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Gokulsgkg/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Gokulsgkg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Gokulsgkg/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Gokulsgkg/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
