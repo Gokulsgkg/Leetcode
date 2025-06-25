@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Gokulsgkg/Leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gokulsgkg/Leetcode/tree/master/0326-power-of-three) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Gokulsgkg/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulsgkg/Leetcode/tree/master/0392-is-subsequence) |
