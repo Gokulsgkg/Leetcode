@@ -6,7 +6,7 @@ class Solution {
         long ans = 0;
         while(i >= 0 &&  i < n && !vis[i]){
             vis[i] = true;
-            if(instructions[i].equals("jump")){
+            if(instructions[i].charAt(0) == 'j'){
                 i += values[i];
             }
             else{
