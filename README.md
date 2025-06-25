@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gokulsgkg/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Gokulsgkg/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Gokulsgkg/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Gokulsgkg/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Gokulsgkg/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gokulsgkg/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Gokulsgkg/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Gokulsgkg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Gokulsgkg/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Gokulsgkg/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Gokulsgkg/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/Gokulsgkg/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Recursion
 |  |
 | ------- |
