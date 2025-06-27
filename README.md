@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gokulsgkg/Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Gokulsgkg/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Gokulsgkg/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0978-valid-mountain-array](https://github.com/Gokulsgkg/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1036-rotting-oranges](https://github.com/Gokulsgkg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Gokulsgkg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Gokulsgkg/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
