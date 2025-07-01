@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Gokulsgkg/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gokulsgkg/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulsgkg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulsgkg/Leetcode/tree/master/0392-is-subsequence) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Gokulsgkg/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gokulsgkg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Gokulsgkg/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gokulsgkg/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gokulsgkg/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gokulsgkg/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Tree
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gokulsgkg/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Gokulsgkg/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Gokulsgkg/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Gokulsgkg/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gokulsgkg/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
