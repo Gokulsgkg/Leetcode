@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gokulsgkg/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Gokulsgkg/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Tree
 |  |
 | ------- |
