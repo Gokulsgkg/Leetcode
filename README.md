@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gokulsgkg/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gokulsgkg/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Gokulsgkg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Gokulsgkg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/Gokulsgkg/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gokulsgkg/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Gokulsgkg/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
